@@ -229,7 +229,7 @@ print("-"*96)
 print("Test has ended succesfully with binary precision of {:.2f}%".format(real_prec/test_size*100).center(96))
 print("-"*96)
 
-print("And with accuracy of {:.2f}".format(100-(accuracy[0]/test_size*100)).center(96))
+print("And with accuracy of {:.2f}%".format(100-(accuracy[0]/test_size*100)).center(96))
 print("-"*96)
 
 print("Weights are".center(96))
