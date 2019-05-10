@@ -11,7 +11,7 @@ Explaination of algorithm:
 4. Making 3d visualisation of data divided into clusters
 5. Training each perceptron for the corresponding cluster
 6. Making a test of predictor
-7. Letting you input your own data and predict that data
+7. Letting you input your own data and predict the credit risk
 
 Enjoy :)
 
